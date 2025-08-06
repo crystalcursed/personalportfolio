@@ -185,21 +185,21 @@ export default function Portfolio() {
 
             <div className="flex justify-center space-x-6">
               <a
-                href="mailto:nandan.tandel@example.com"
+                href="mailto:nandan.tandel@gmail.com"
                 className="text-gray-400 hover:text-cyan-400 transition-colors"
                 aria-label="Email"
               >
                 <Mail size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/nandantandel"
+                href="https://www.linkedin.com/in/nandan-tandel-6673a12a3/"
                 className="text-gray-400 hover:text-cyan-400 transition-colors"
                 aria-label="LinkedIn"
               >
                 <Linkedin size={24} />
               </a>
               <a
-                href="https://gitlab.com/nandantandel"
+                href="https://github.com/crystalcursed?tab=overview&from=2025-08-01&to=2025-08-06"
                 className="text-gray-400 hover:text-cyan-400 transition-colors"
                 aria-label="GitLab"
               >
