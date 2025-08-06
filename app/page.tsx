@@ -231,9 +231,7 @@ export default function Portfolio() {
 
               <div>
                 <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                  I'm a passionate Computer Engineering student with a strong foundation in software development and
-                  emerging technologies. Currently pursuing my BTech degree (2022–2026), I'm dedicated to creating
-                  innovative solutions that make a positive impact.
+                  Hey! Nandan here! I spend my time usually exploring niche tech and like a archaelogist searching every nick of internet for some truly strange tech. When I am not learning HolyC or trying to figure out TempleOS I can usually found practicing DSA and creating Full Stack, ML and OS tools.
                 </p>
 
                 <div className="space-y-4">
@@ -375,15 +373,11 @@ export default function Portfolio() {
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-4 flex-shrink-0"></div>
-                    <span>Collaborated with cross-functional teams to implement user-friendly features</span>
+                    <span>Participated in digital marketing campaigns</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-cyan-400 rounded-full mt-2 mr-4 flex-shrink-0"></div>
-                    <span>Contributed to database design and optimization for improved performance</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 mr-4 flex-shrink-0"></div>
-                    <span>Participated in code reviews and followed agile development practices</span>
+                    <span>Helped undertake social media analysis and boost fundraising by identifying and targetting clients</span>
                   </li>
                 </ul>
               </CardContent>
@@ -503,14 +497,14 @@ export default function Portfolio() {
                     className="flex items-center text-gray-400 hover:text-cyan-400 transition-colors"
                   >
                     <Mail className="mr-3" size={18} />
-                    nandan.tandel@example.com
+                    nandan.tandel@gmail.com
                   </a>
                   <a
                     href="tel:+1234567890"
                     className="flex items-center text-gray-400 hover:text-cyan-400 transition-colors"
                   >
                     <Phone className="mr-3" size={18} />
-                    +91 12345 67890
+                    +91 8850307494
                   </a>
                   <a
                     href="https://linkedin.com/in/nandantandel"
@@ -524,7 +518,7 @@ export default function Portfolio() {
                     className="flex items-center text-gray-400 hover:text-cyan-400 transition-colors"
                   >
                     <Github className="mr-3" size={18} />
-                    GitLab Profile
+                    Github Profile
                   </a>
                 </div>
               </div>
